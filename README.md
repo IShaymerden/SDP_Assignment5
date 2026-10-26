@@ -69,6 +69,6 @@ No changes to Calculator are required.
 
 ## Author
 
-Individual assignment for Software Design Patterns.
+Iskander Shaimerdinov SE - 2524
 
 Astana IT University — 2026–2027.
